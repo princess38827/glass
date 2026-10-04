@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Glass icon">
+  <defs>
+    <linearGradient id="glass-gradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0B1220" />
+  <path d="M18 46V18h10.5c8.5 0 14.5 5.7 14.5 14.1S37 46 28.5 46H18zm10.2-7.7h2.1c4.4 0 7.2-2.7 7.2-6.9s-2.8-6.9-7.2-6.9h-2.1v13.8z" fill="url(#glass-gradient)"/>
+  <circle cx="46" cy="18" r="4" fill="#f8fafc" />
+</svg>
